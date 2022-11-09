@@ -2,7 +2,7 @@
 <h3 align="center">Docente de Tecnología en Bs. As.</h3>
 
 - 🔭 Trabajo en **Docencia** dando clases en cursos de Introd. a la Programación, Bases de datos, Sistemas de Información, Algoritmos y Estructuras de datos, Practicas Profesionalizantes, Automatización de procesos...
-- 🌱 Actualmente profundizando sobre **FrontEnd development**
+- 🌱 Actualmente profundizando sobre **FrontEnd development**.
 <br>
 <h3 align="left">Conectarse:</h3>
 <p align="left">
